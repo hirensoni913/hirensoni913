@@ -1,3 +1,7 @@
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full-stack+Developer;Health+Informatics+Expert;AI+Agent;openIMIS+Specialist)](https://git.io/typing-svg)
+</p>
+
 # 👨‍💻 Full-stack Developer | Health Informatics | AI Agents | openIMIS Specialist
 
 Hi, I’m Hiren Soni, a fullstack developer and health informatics specialist based in Switzerland and Canada. My work blends software engineering with healthcare, focusing on robust web applications, digital health platforms, and applied research in AI agent systems.
