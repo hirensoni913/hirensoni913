@@ -1,8 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=hirensoni913&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 
-👋🏼 Hi there,
----
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&width=1200&lines=%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8FThis+is+Hiren+Soni+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=000000&center=true&vCenter=true&repeat=false&width=1200&lines=%F0%9F%99%8B%F0%9F%8F%BC%E2%80%8D%E2%99%82%EF%B8%8FThis+is+Hiren+Soni+)](https://git.io/typing-svg)
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBFull-stack+developer)](https://git.io/typing-svg)
