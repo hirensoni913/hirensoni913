@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBFull-stack+developer)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=300&lines=%F0%9F%8F%A5Health+Informatics)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=200&lines=%F0%9F%A4%96AI+Agents)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=400&lines=%F0%9F%8C%8DopenIMIS+Specialist)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=600&lines=%F0%9F%A7%A9MCP+(Model+Context+Protocol))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=435&lines=%F0%9F%8C%8DopenIMIS+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2849E5&center=true&width=435&lines=%F0%9F%A7%A9MCP+(Model+Context+Protocol))](https://git.io/typing-svg)
 
 ## 👋 About Me
 
