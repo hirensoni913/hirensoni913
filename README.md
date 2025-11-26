@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👨‍💻 Full-stack Developer | Health Informatics | AI Agents | openIMIS Specialist
 
-<!--
-**hirensoni913/hirensoni913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Hiren Soni, a fullstack developer and health informatics specialist based in Switzerland and Canada. My work blends software engineering with healthcare, focusing on robust web applications, digital health platforms, and applied research in AI agent systems.
 
-Here are some ideas to get you started:
+- 🛠️ Technical expertise: C#, .NET, Microsoft SQL, Django, Python, PostgreSQL, Docker, data visualization, ETL tools
+- 🏥 Health informatics impact:
+    - Led development of the legacy openIMIS platform, which established the foundation for its modular evolution
+    - Involved in modular openIMIS: bug fixing, development, test case writing, release management, dashboard creation (Apache Superset, DHIS2)
+    - Enhanced reliability and streamlined business processes
+- 🔬 Research: Master’s thesis on agentic AI, implementing and learning AI/ML and multi-agent systems in health informatics
+- 🤝 Community: Open for collaboration, consulting, and knowledge sharing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hiren-soni/) 🔗  
+Explore my featured projects and reach out for opportunities in digital health innovation!
